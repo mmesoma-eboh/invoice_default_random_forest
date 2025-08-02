@@ -41,5 +41,3 @@ Invoice trading allows businesses to sell unpaid invoices to investors. But defa
 - Add real-world features (e.g., repayment behavior, invoice metadata)
 - Deploy as a scoring API or dashboard
 
-## 📁 Project Structure
-
